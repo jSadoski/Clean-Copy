@@ -10,7 +10,7 @@ Please keep in mind that some sites, such as Google search, need query strings i
 
 ## Building
 
-This extension uses Webpack. To build, first `npm install`, then use `npm run build`. The unpacked extension will be in `~/dist`.
+This extension uses Webpack. To build, first `npm install`, then use `npm run build`. The unpacked extension will be in `./dist`.
 
 ## Credit
 
