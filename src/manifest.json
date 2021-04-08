@@ -1,0 +1,16 @@
+{
+  "name": "Clean Copy",
+  "description": "Copy a URL without tracking information (query string).",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "clipboardWrite"],
+  "action": {
+    "default_icon": {
+      "32": "images/icon32.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "32": "images/icon32.png"
+  }
+}
