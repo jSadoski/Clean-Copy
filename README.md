@@ -1,5 +1,7 @@
 # Clean Copy
 
+![Screenshot](/screenshot.jpg)
+
 A Chrome extension for quickly copying page URLs without the query string. Ideal for sharing shorter links by removing tracking information from them (Looking at you, Amazon).
 
 Please keep in mind that some sites, such as Google search, need query strings in order to work.
