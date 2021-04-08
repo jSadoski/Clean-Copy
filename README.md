@@ -1,5 +1,7 @@
 # Clean Copy
 
+[Chrome Web Store](https://chrome.google.com/webstore/detail/clean-copy/hhaleljpeeeleeopbdmcahjankncelgb)
+
 ![Screenshot](/screenshot.jpg)
 
 A Chrome extension for quickly copying page URLs without the query string. Ideal for sharing shorter links by removing tracking information from them (Looking at you, Amazon).
