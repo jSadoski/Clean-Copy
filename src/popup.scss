@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+@import "~/node_modules/bulma/sass/utilities/_all.sass";
+@import "~/node_modules/bulma/sass/base/_all.sass";
+@import "~/node_modules/bulma/sass/helpers/spacing.sass";
+@import "~/node_modules/bulma/sass/elements/button.sass";
+@import "~/node_modules/bulma/sass/elements/container.sass";
+@import "~/node_modules/bulma/sass/form/_all.sass";
+
+#copied {
+  visibility: hidden;
+}
+
+#urlBox {
+  min-width: 400px;
+}
+
+p.help {
+  font-size: 0.75rem;
+  font-family: BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
+  font-weight: 800;
+  margin-top: 4px;
+  text-rendering: optimizeLegibility;
+}
